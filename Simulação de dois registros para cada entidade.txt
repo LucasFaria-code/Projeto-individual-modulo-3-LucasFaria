@@ -1,0 +1,23 @@
+Simulação de dois registros para cada entidade:
+
+
+Empresa parceira:
+
+ID: 1, Nome: Empresa A, Endereço: Endereço A, Contato: Contato A
+ID: 2, Nome: Empresa B, Endereço: Endereço B, Contato: Contato B
+
+Tecnologia: 
+
+ID: 1, Nome: Tecnologia X, Área: Webdev
+ID: 2, Nome: Tecnologia Y, Área: Dados
+
+Registro de tecnologias utilizadas:
+
+ID: 1, ID da Empresa: 1, ID da Tecnologia: 1
+ID: 2, ID da Empresa: 2, ID da Tecnologia: 2
+
+
+Colaborador:
+
+ID: 1, Nome: Colaborador A, Cargo: Cargo A, ID da Empresa: 1
+ID: 2, Nome: Colaborador B, Cargo: Cargo B, ID da Empresa: 2
