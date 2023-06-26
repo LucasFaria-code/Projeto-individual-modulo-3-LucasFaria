@@ -2,7 +2,7 @@
 
 # RESILIADATA
 
-[Descrição curta do projeto]
+Descrição curta do projeto.
 
 RESILIADATA é um sistema que auxilia na avaliação das tecnologias utilizadas por empresas parceiras e seus colaboradores.
 
@@ -36,6 +36,6 @@ d) Colaborador:
 3.	Relacionamentos entre as entidades:
 •	Uma empresa parceira pode ter várias tecnologias registradas (relação um para muitos entre Empresa e Registro de tecnologias utilizadas, usando o ID da empresa).
 •	Uma tecnologia pode estar presente em vários registros de tecnologias utilizadas (relação um para muitos entre Tecnologia e Registro de tecnologias utilizadas, usando o ID da tecnologia).
-•	Um colaborador pertence a uma empresa parceira (relação um para muitos entre Empresa e Colaborador, usando o ID da empresa).++
+•	Um colaborador pertence a uma empresa parceira (relação um para muitos entre Empresa e Colaborador, usando o ID da empresa).
 
 
